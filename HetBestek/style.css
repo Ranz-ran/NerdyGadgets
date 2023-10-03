@@ -1,3 +1,7 @@
+body{
+    background-color: #545161;
+    color: white;
+}
 .logo {
     height: 50px;
     width: 50px;
