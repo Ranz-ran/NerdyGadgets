@@ -17,6 +17,7 @@ Our project
 
 ## Authors
 
+Team: J-star
 @Rita
 @Amber
 @Jeroen
