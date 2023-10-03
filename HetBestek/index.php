@@ -1,5 +1,5 @@
 <?php
-
+include "../HetBestek/header.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -9,30 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- external links -->
-    <link rel="stylesheet" href="css.css">
+    <link rel="stylesheet" href="style.css">
     <title>Nerdy Gadgets</title>
 </head>
-<header>
-    <!-- het logo -->
-    <div class="logo">
-    <img src="" alt="Nerdy Gadgets Logo">
-    </div>
 
-    <!-- de search bar -->
-    <div class="search">
-
-    </div>
-
-    <!-- displayt de shopping cart -->
-    <div class="de legend">
-        <p>	&#128722 </p>
-    </div>
-
-    <!-- profile en login -->
-    <div class="profile">
-        <img src="" alt="Profile Picture">
-    </div>
-</header>
 <nav>
     <!-- vul hier uw pagina's in voor toekomstige sprints -->
     <a href="#">sample</a>
