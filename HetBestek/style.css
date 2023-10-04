@@ -1,4 +1,14 @@
 .logo {
     height: 50px;
     width: 50px;
+    display: inline-block;
+    margin: 2px
+}
+
+.de legend {
+
+}
+
+.header {
+    background: #0e1bc5;
 }

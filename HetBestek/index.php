@@ -1,5 +1,5 @@
 <?php
-include "../HetBestek/header.php";
+include "./header.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -9,11 +9,8 @@ include "../HetBestek/header.php";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- external links -->
-<<<<<<<< HEAD:HetBestek/index.php
     <link rel="stylesheet" href="style.css">
-========
     <link rel="stylesheet" href="homepage.css">
->>>>>>>> origin/main:HetBestek/homepage.php
     <title>Nerdy Gadgets</title>
 </head>
 
@@ -38,7 +35,5 @@ include "../HetBestek/header.php";
         </div>
     </div>
 </body>
-<footer>
-    <!-- indien nodig? -->
-</footer>
+<?php include "./footer.php" ?>
 </html>
