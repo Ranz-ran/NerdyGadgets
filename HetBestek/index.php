@@ -10,13 +10,13 @@ include "./header.php";
 
     <!-- external links -->
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="homepage.css">
+    <link rel="stylesheet" href="../Algemeen/Hamburgers.css">
     <title>Nerdy Gadgets</title>
 </head>
 
 <nav>
     <!-- vul hier uw pagina's in voor toekomstige sprints -->
-    <a href="#">sample</a>
+    <a href="../Algemeen/navigation menu.html">Navi</a>
 </nav>
 <body>
     <!-- als je wil kan je hier bijvoorbeeld de slogan plakken als je wilt -->

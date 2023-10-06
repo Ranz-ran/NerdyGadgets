@@ -10,7 +10,7 @@
 }
 
 .header {
-    background: #0e1bc5;
+    background: #C0C0C0;
 }
 
 body {
@@ -89,4 +89,8 @@ footer > .copyright {
     font-size: 13px;
     color: #aaa;
     margin-bottom: 0;
+}
+
+footer {
+    background-color: #C0C0C0;
 }
