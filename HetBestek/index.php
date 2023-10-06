@@ -1,5 +1,6 @@
 <?php
 include "./header.php";
+include "../Algemeen/navigation menu.html";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +14,13 @@ include "./header.php";
     <link rel="stylesheet" href="../Algemeen/Hamburgers.css">
     <title>Nerdy Gadgets</title>
 </head>
-
+<header class="header">
+    <!-- het logo -->
+    <div class="logo" style="display: inline-block">
+        <a href="#">
+            <img src="../Img/IMG_1915.png" alt="Nerdy Gadgets Logo" class="logo">
+        </a>
+    </div>
 <nav>
     <!-- vul hier uw pagina's in voor toekomstige sprints -->
     <a href="../Algemeen/navigation menu.html">Navi</a>
@@ -21,7 +28,7 @@ include "./header.php";
 <body>
     <!-- als je wil kan je hier bijvoorbeeld de slogan plakken als je wilt -->
     <div class="slogan">
-    <p>The gadgets that improve your modern day life. </p>
+    <h3>The gadgets that improve your modern day life. </h3>
     </div>
     <!-- aanbevolen producten slider -->
     <div class="aanbevolen">
@@ -34,9 +41,6 @@ include "./header.php";
         maar ook de mensen met hobby’s en interesses die door onze Gadgets enthousiast worden.
         Wij wensen u veel plezier en enthousiasme op onze webwinkel!</p>
     <div class="slide"><img src="../Img/nerdy gadgets.jpg" alt="Slide 1"></div>
-
-
-
 
     <footer>
         <div class="social">

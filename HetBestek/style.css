@@ -1,8 +1,9 @@
 .logo {
     height: 28%;
     width: 28%;
-    display: inline-block;
-    margin: 2px
+    display: grid;
+    align-items: center;
+    margin: 2%;
 }
 
 .de legend {
