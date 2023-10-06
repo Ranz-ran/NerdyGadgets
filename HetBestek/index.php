@@ -1,5 +1,4 @@
 <?php
-include "./header.php";
 include "../Algemeen/navigation menu.html";
 ?>
 <!DOCTYPE html>
@@ -13,18 +12,17 @@ include "../Algemeen/navigation menu.html";
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="../Algemeen/Hamburgers.css">
     <title>Nerdy Gadgets</title>
+
+        <!-- het logo -->
+
+
 </head>
-<header class="header">
-    <!-- het logo -->
-    <div class="logo" style="display: inline-block">
-        <a href="#">
-            <img src="../Img/IMG_1915.png" alt="Nerdy Gadgets Logo" class="logo">
-        </a>
-    </div>
-<nav>
-    <!-- vul hier uw pagina's in voor toekomstige sprints -->
-    <a href="../Algemeen/navigation menu.html">Navi</a>
-</nav>
+
+<div class="logo">
+    <a href="#">
+        <img src="../Img/IMG_1915.png" alt="Nerdy Gadgets Logo" class="logo">
+    </a>
+</div>
 <body>
     <!-- als je wil kan je hier bijvoorbeeld de slogan plakken als je wilt -->
     <div class="slogan">
@@ -58,7 +56,6 @@ include "../Algemeen/navigation menu.html";
 
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-<test></test>
+
 </body>
-<?php include "./footer.php" ?>
 </html>
