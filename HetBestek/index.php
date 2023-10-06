@@ -26,12 +26,7 @@ include "./header.php";
     <!-- aanbevolen producten slider -->
     <div class="aanbevolen">
         <div class="slides">
-            <div class="slide"><img src="image1.jpg" alt="Slide 1"></div>
-            <div class="slide"><img src="image2.jpg" alt="Slide 2"></div>
-            <div class="slide"><img src="image3.jpg" alt="Slide 3"></div>
-
-            <button class="prev" onclick="plusSlides(-1)">&#10094;</button>
-            <button class="next" onclick="plusSlides(1)">&#10095;</button>
+            <?php include "./Carousel.html" ?>
         </div>
     </div>
     <p>Wij de makers van Nerdy Gadgets willen ervoor zorgen dat het leven makkelijker wordt gemaakt voor onze klanten.

@@ -9,7 +9,7 @@
     <!-- het logo -->
     <div class="logo" style="display: inline-block">
         <a href="#">
-            <img src="/Img/IMG_1915.png" alt="Nerdy Gadgets Logo" class="logo">
+            <img src="../Img/IMG_1915.png" alt="Nerdy Gadgets Logo" class="logo">
         </a>
     </div>
 
