@@ -3,9 +3,9 @@
 }
 
 .header {
-    height: 80%;
+    height: 300px;
     width: 100%;
-    background-color: #808080;
+    background-color: #696969;
     text-align: center;
     padding: 50px;
 }
@@ -14,13 +14,17 @@
     width: 28%;
     display: grid;
     align-items: center;
-    margin: 3%;
+    margin: 0 auto;
+    top:50%;
+    left:50%;
+    -ms-transform: translate(-2%, -20%);
+    transform: translate(-2%, -20%);
 }
 
 
 body {
-    background-color: #F0FFF0 ;
-    color: white;
+    background-color: #C0C0C0 ;
+    color: black;
 }
 
 ion-icon {
@@ -97,5 +101,5 @@ footer > .copyright {
 }
 
 footer {
-    background-color: #808080;
+    background-color: #696969;
 }

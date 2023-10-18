@@ -34,12 +34,12 @@
             <?php include "Carousel.html" ?>
         </div>
     </div>
-    <p>Wij de makers van Nerdy Gadgets willen ervoor zorgen dat het leven makkelijker wordt gemaakt voor onze klanten.
-        Niet alleen het makkelijk maken van iemands leven vinden wij belangrijk,
-        maar ook de mensen met hobby’s en interesses die door onze Gadgets enthousiast worden.
-        Wij wensen u veel plezier en enthousiasme op onze webwinkel!</p>
-    <div class="slide"><img src="../Img/nerdy gadgets.jpg" alt="Slide 1"></div>
-
+    <div class="slide"><img src="../Img/nerdy gadgets.jpg" alt="Slide 1">
+    <p>Wij de makers van Nerdy Gadgets willen ervoor zorgen dat het leven makkelijker wordt gemaakt voor onze klanten.</p>
+        <p>Niet alleen het makkelijk maken van iemands leven vinden wij belangrijk,</p>
+    <p>maar ook de mensen met hobby’s en interesses die door onze Gadgets enthousiast worden.</p>
+    <p>Wij wensen u veel plezier en enthousiasme op onze webwinkel!</p>
+    </div>
     <footer>
         <div class="social">
             <a href="..."> <ion-icon name="logo-instagram"></ion-icon> </a>
