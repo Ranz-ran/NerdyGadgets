@@ -1,6 +1,3 @@
-<?php
-include "../Algemeen/navigation menu.html";
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,6 +15,9 @@ include "../Algemeen/navigation menu.html";
 
 </head>
 <div class="header">
+    <?php
+    include "../Algemeen/navigation menu.html";
+    ?>
 <div class="logo">
     <a href="#">
         <img src="../Img/IMG_1915.png" alt="Nerdy Gadgets Logo" class="logo">

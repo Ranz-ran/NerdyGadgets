@@ -1,3 +1,14 @@
+.de legend {
+
+}
+
+.header {
+    height: 80%;
+    width: 100%;
+    background-color: #808080;
+    text-align: center;
+    padding: 50px;
+}
 .logo {
     height: 28%;
     width: 28%;
@@ -5,21 +16,6 @@
     align-items: center;
     margin: 3%;
 }
-
-.de legend {
-
-}
-
-.header {
-    height: 100%;
-    width: 100%;
-    background-color: #00FF7F;
-    text-align: center;
-    padding: 50px;
-
-
-}
-
 
 
 body {
@@ -101,5 +97,5 @@ footer > .copyright {
 }
 
 footer {
-    background-color: #00FF7F;
+    background-color: #808080;
 }
